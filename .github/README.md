@@ -4,7 +4,7 @@
 <p align="center"><a href="https://t.me/DevilsHeavenMF"><img src="https://telegra.ph/file/c2a13bd100132a37492c8.jpg"></a></p>
 
 VIJU Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
-
+[![Deploy](https://te.legra.ph/file/ae75fa2fa5162df47264d.jpg)](https://heroku.com/deploy/)
 <p align="center">
     <img src="https://img.shields.io/github/stars/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/forks/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Forks">
